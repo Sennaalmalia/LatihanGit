@@ -9,5 +9,7 @@ package aritmatikaapp;
  * @author HP
  */
 public class operation {
-    
+    public double add(double a, double b) {
+        return a + b;
+    }
 }
